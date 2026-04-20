@@ -1,6 +1,6 @@
-Hello! 👋 I’m a junior studying Computer Science at UIC, with experience in Python and C++. My interest in technology started with a curiosity about coding and artificial intelligence. This led me to build my own programs and work on expanding my knowledge.
+Hello! 👋 I’m a junior studying Computer Science at UIC, with experience in Python and C++. My interest in technology started with a curiosity about coding and artificial intelligence. This led me to build my own programs and learn more about computers.
 
-Before transitioning into tech, I worked as an early childhood teacher and math instructor. These experiences strengthened my communication, adaptability, and leadership skills. 
+Before transitioning into tech, I worked as a preschool teacher and math instructor. These experiences strengthened my communication, adaptability, and leadership skills. 
 
 I’m currently focused on expanding my skills in data structures, algorithms, and object-oriented programming. I’m especially interested in building secure software.
 
