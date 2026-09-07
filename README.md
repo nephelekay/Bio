@@ -1,7 +1,5 @@
-Hello! 👋 I’m a junior studying Computer Science at UIC, with experience in Python and C++. My interest in technology started with a curiosity about coding and artificial intelligence. This led me to build my own programs and learn more about computers.
+Hello! 👋 I’m a Computer Science student at the University of Illinois Chicago with experience developing applications in Python and C++. My interest in technology started with a curiosity about coding and artificial intelligence, which led me to start building my own projects and explore different areas of software development.
 
-Before transitioning into tech, I worked as a preschool teacher and math instructor. These experiences strengthened my communication, adaptability, and leadership skills. 
+Through my coursework and personal projects, I’ve developed experience with data structures, algorithms, object-oriented programming, and artificial intelligence. I’m particularly interested in building software that is secure, reliable, and useful.
 
-I’m currently focused on expanding my skills in data structures, algorithms, and object-oriented programming. I’m especially interested in building secure software.
-
-Looking ahead, I hope to work with a Chicago-based company where I can apply my technical and problem-solving skills to create meaningful, real-world applications.
+I’m continuing to grow my programming and problem-solving skills through new projects and coursework, and I’m always looking to learn something new.
